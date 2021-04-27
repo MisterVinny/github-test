@@ -1,5 +1,5 @@
 This is just some random text file.
-Wih a spllin err.
+With a spelling error.
 Just a test.
-Blah blah blah
-The end
+Blah blah blah.
+The end.
